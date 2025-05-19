@@ -397,27 +397,31 @@ main .active-sec {
 }
 
 .abt-stats .progress-bars .progress-bar .prog-container .progress .css {
-    width: 95%;
+    width: 90%;
 }
 
 .abt-stats .progress-bars .progress-bar .prog-container .progress .js {
     width: 75%;
 }
 
-.abt-stats .progress-bars .progress-bar .prog-container .progress .react {
-    width: 60%;
+.abt-stats .progress-bars .progress-bar .prog-container .progress .mern {
+    width: 80%;
 }
 
-.abt-stats .progress-bars .progress-bar .prog-container .progress .node {
-    width: 87%;
-}
-
-.abt-stats .progress-bars .progress-bar .prog-container .progress .python {
+.abt-stats .progress-bars .progress-bar .prog-container .progress .cpp {
     width: 70%;
 }
 
-.abt-stats .progress-bars .progress-bar .prog-container .progress .java {
+.abt-stats .progress-bars .progress-bar .prog-container .progress .sql {
+    width: 85%;
+}
+
+.abt-stats .progress-bars .progress-bar .prog-container .progress .python {
     width: 80%;
+}
+
+.abt-stats .progress-bars .progress-bar .prog-container .progress .java {
+    width: 60%;
 }
 
 .abt-stats .progress-bars .progress-bar .prog-container .progress .bootstrap {
@@ -514,7 +518,7 @@ main .active-sec {
 
 .portfolios {
     display: grid;
-    grid-template-columns: repeat(3 , 1fr);
+    grid-template-columns: repeat(2 , 1fr);
     gap: 2rem;
     margin-top: 3rem;
 }
