@@ -593,7 +593,7 @@ main .active-sec {
     background-color: var(--color-white);
 }
 
-.portfolios .portfolio-item .hover-item .port-icons .icon:hover i{
+.portfolios .portfolio-item .hover-item .port-icons .icon:hover i {
     color: var(--color-primary);
 }
 
